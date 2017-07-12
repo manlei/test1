@@ -65,16 +65,18 @@
 
 ## （3） 运行环境  
 
-3.1 硬件  
-最小硬件配置  
+3.1 硬件  
+能够运行AndroidSdkVersion21及以上的Android智能设备，需要具备SD卡，能够支持语音，摄像机。  
 
 3.2 支持软件  
+AndroidSdk21以上的运行环境  
 
-## （4） 使用说明  
+## （4） 使用说明  
 
 4.1 安装和初始化  
+SchoolInApp的安装过程非常简单，只需要将SchoolInApp的APK文件安装到您的Android设备即可，点击SchoolInApp图标既可以打开应用软件。  
 
-4.2 输入  
+4.2 输入  
 
 4.3 输出  
 
