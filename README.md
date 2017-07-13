@@ -151,59 +151,59 @@
 >当您完成注册之后，即可登录，请输入您的账户和密码，点击登录即可。  
   * 登录样例  
     
-    <img src="https://github.com/manlei/test1/blob/master/picture/login.png" width="240" height="400" alt=""/>  
+    <img src="https://github.com/manlei/test1/blob/master/picture/login.png" width="240" height="400" alt="登录"/>  
 
 * 主页面  
 >进入主页面之后，您可以进行您想要的操作，您可以提问、搜索、查看文章或者问题或者查看个人信息。  
   * 主页面样例  
     
-    <img src="https://github.com/manlei/test1/blob/master/picture/main activity.png" width="240" height="400" alt=""/>
+    <img src="https://github.com/manlei/test1/blob/master/picture/main_activity.png" width="240" height="400" alt="主页面"/>
     
 * 发帖  
 >点击+号即可进入发帖页面，您可以选择语音发帖或者文字发帖，这里我们以文字发帖为例。输入您想提出的问题，您可以对问题内容进行设置，包括插入图片、链接等，您还需要输入问题的标题和提问的工作室。  
   * 提问样例  
     
-    <img src="img src="https://github.com/manlei/test1/blob/master/picture/ask question word.png" width="240" height="400" alt=""/>
+    <img src="img src="https://github.com/manlei/test1/blob/master/picture/ask_question_word.png" width="240" height="400" alt="发帖"/>
 
 * 搜索  
 >点击搜索按钮即可进入搜索页面，这里您可以选择搜索用户、问题、工作室。输入你想搜索的用户姓名，问题标题，工作室名称即可开始搜索功能，点击搜索结果即可完成跳转。  
   * 搜索样例  
     
-    <img src="https://github.com/manlei/test1/blob/master/picture/search.png" width="240" height="400" alt=""/>  
+    <img src="https://github.com/manlei/test1/blob/master/picture/search.png" width="240" height="400" alt="搜索"/>  
     
 * 用户信息  
 >点击左上角的导航栏即可开始查看用户信息。用户信息包括：用户基本信息、通知、收藏、用户加入的工作室、设置、帮助以及注销当前用户。点击用户信息即可进入查看和设置。  
   * 用户信息样例  
     
-    <img src="https://github.com/manlei/test1/blob/master/picture/personal_info.png" width="240" height="400" alt=""/>  
+    <img src="https://github.com/manlei/test1/blob/master/picture/personal_info.png" width="240" height="400" alt="用户信息"/>  
     
 * 基本信息页面  
 >您的基本信息页面展示您的一些最基本的信息，包括：您的头像、用户名、您提出的问题、您回答过得问题、邮箱、您的手机、您所在的院系。如果您想修改您的基本信息，点击页面右上角的编辑按钮即可修改；如果您想修改您的密码，点击在页面的最下方的修改密码按钮，输入您当前密码和新密码即可完成修改密码。  
   * 基本信息页面样例  
     
-    <img src="https://github.com/manlei/test1/blob/master/picture/personal basic info.png" width="240" height="400" alt=""/>  
+    <img src="https://github.com/manlei/test1/blob/master/picture/personal_basic_info.png" width="240" height="400" alt="基本信息"/>  
     
 * 通知页面  
 >您的通知页面保存着您最近的一些通知消息，当您想查看某条消息时，只需要轻轻点击即可。  
   * 通知页面样例  
     
-    <img src="https://github.com/manlei/test1/blob/master/picture/notification.png" width="240" height="400" alt=""/>  
+    <img src="https://github.com/manlei/test1/blob/master/picture/notification.png" width="240" height="400" alt="通知"/>  
     
 * 收藏页面  
 >用户可以对自己喜欢的问题、回答和文章进行收藏。当您想查看某个已经收藏的问题、回答或者文章进行查看或者编辑时，你只需要轻轻点击即可。  
   * 收藏页面样例  
     
-    <img src="https://github.com/manlei/test1/blob/master/picture/user favorite.png" width="240" height="400" alt=""/>  
+    <img src="https://github.com/manlei/test1/blob/master/picture/user_favorite.png" width="240" height="400" alt="收藏"/>  
     
 * 用户工作室
 >工作室管理员可以将您加入到他的工作室，使您成为工作室的一元。您可以在工作室页面查看您已经加入的工作室。选择中某个工作室点击即可查看工作室的具体信息。 
   * 用户工作室页面样例  
     
-    <img src="https://github.com/manlei/test1/blob/master/picture/user studio.png" width="240" height="400" alt=""/>  
+    <img src="https://github.com/manlei/test1/blob/master/picture/user_studio.png" width="240" height="400" alt="用户工作室"/>  
     
 * 工作室信息  
 >查看一个工作室的具体信息，工作室头像，工作室名称，工作室问题，工作室成员列表，工作室文章，工作室管理员。点击即可查看具体信息，如果您是该工作室管理员，点击右上角按钮即可修改工作室信息。  
   * 工作室信息样例  
     
-    <img src="https://github.com/manlei/test1/blob/master/picture/studio info.png" width="240" height="400" alt=""/>  
+    <img src="https://github.com/manlei/test1/blob/master/picture/studio_info.png" width="240" height="400" alt="工作室信息"/>  
     
