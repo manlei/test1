@@ -163,7 +163,7 @@
 >点击+号即可进入发帖页面，您可以选择语音发帖或者文字发帖，这里我们以文字发帖为例。输入您想提出的问题，您可以对问题内容进行设置，包括插入图片、链接等，您还需要输入问题的标题和提问的工作室。  
   * 提问样例  
   
-    <img src="https://github.com/manlei/test1/blob/master/picture/ask_question_word.png" width="240" height="400" alt="发帖"/>  
+    <img src="https://github.com/manlei/test1/blob/master/picture/ask_question_%20word.png" width="240" height="400" alt="发帖"/>  
   
 * 搜索  
 >点击搜索按钮即可进入搜索页面，这里您可以选择搜索用户、问题、工作室。输入你想搜索的用户姓名，问题标题，工作室名称即可开始搜索功能，点击搜索结果即可完成跳转。  
