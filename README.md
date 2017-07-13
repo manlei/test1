@@ -155,21 +155,21 @@
 
 * 主页面  
 >进入主页面之后，您可以进行您想要的操作，您可以提问、搜索、查看文章或者问题或者查看个人信息。  
-  * 主页面样例  
+  * 主页面样例  
     
-    <img src="https://github.com/manlei/test1/blob/master/picture/main_activity.png" width="240" height="400" alt="主页面"/>
+    <img src="https://github.com/manlei/test1/blob/master/picture/main_activity.png" width="240" height="400" alt="主页面"/>  
     
 * 发帖  
 >点击+号即可进入发帖页面，您可以选择语音发帖或者文字发帖，这里我们以文字发帖为例。输入您想提出的问题，您可以对问题内容进行设置，包括插入图片、链接等，您还需要输入问题的标题和提问的工作室。  
-  * 提问样例  
+  * 提问样例  
+  
+    <img src="img src="https://github.com/manlei/test1/blob/master/picture/ask_question_word.png" width="240" height="400" alt="发帖"/>  
     
-    <img src="img src="https://github.com/manlei/test1/blob/master/picture/ask_question_word.png" width="240" height="400" alt="发帖"/>
-
 * 搜索  
 >点击搜索按钮即可进入搜索页面，这里您可以选择搜索用户、问题、工作室。输入你想搜索的用户姓名，问题标题，工作室名称即可开始搜索功能，点击搜索结果即可完成跳转。  
   * 搜索样例  
     
-    <img src="https://github.com/manlei/test1/blob/master/picture/search.png" width="240" height="400" alt="搜索"/>  
+    <img src="https://github.com/manlei/test1/blob/master/picture/search.png" width="240" height="400" alt="搜索"/>  
     
 * 用户信息  
 >点击左上角的导航栏即可开始查看用户信息。用户信息包括：用户基本信息、通知、收藏、用户加入的工作室、设置、帮助以及注销当前用户。点击用户信息即可进入查看和设置。  
